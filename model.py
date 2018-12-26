@@ -1,3 +1,5 @@
+#This file contains the code necessary to generate the game board, including bomb placement and board size
+
 import random
 
 diff = {'Easy':(9,9,10,'300x400'), 'Medium': (16,16,40,'750x700'), 'Hard': (16,30, 99,'1350x700')}

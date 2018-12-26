@@ -1,3 +1,7 @@
+#This file contains all of the tkinter code necessary to display the game. Imports functions from model.py
+# in order to display the gameboard information visually.
+#Bombs are displayed as red circles beneath buttons. 
+
 import tkinter as tk
 import model 
 
