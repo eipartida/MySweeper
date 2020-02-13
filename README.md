@@ -5,3 +5,6 @@ Files:
 controller.py
 model.py
 view.py
+
+
+Execute controller.py to run the game.
